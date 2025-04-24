@@ -1,2 +1,2 @@
-# coursera-test
-Coursera test repository
+# My Projects
+My Project repository
